@@ -9,10 +9,10 @@
   ],
   "author": "",
   "license": "MIT",
-  "dependencies": {
-    "polka": "^0.5.2"
-  },
   "peerDependencies": {
     "polka": "^0.5.2"
+  },
+  "devDependencies": {
+    "rescript": "^10.0.1"
   }
 }
