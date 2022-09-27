@@ -1,0 +1,20 @@
+{
+  "name": "polka-bindings",
+  "version": "0.1.0",
+  "sources": [
+    {
+      "dir": "src",
+      "subdirs": true
+    },
+    {
+      "type": "dev",
+      "dir": "example",
+      "subdirs": true
+    }
+  ],
+  "package-specs": {
+    "module": "commonjs",
+    "in-source": true
+  },
+  "suffix": ".bs.js"
+}

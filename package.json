@@ -1,0 +1,12 @@
+{
+  "name": "polka-bindings",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "polka": "^0.5.2"
+  }
+}
