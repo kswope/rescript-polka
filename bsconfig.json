@@ -1,5 +1,5 @@
 {
-  "name": "polka-bindings",
+  "name": "rescript-polka",
   "version": "0.1.0",
   "sources": [
     {
@@ -14,7 +14,7 @@
   ],
   "package-specs": {
     "module": "commonjs",
+    "suffix": ".bs.js",
     "in-source": true
-  },
-  "suffix": ".bs.js"
+  }
 }

@@ -1,11 +1,17 @@
 {
-  "name": "polka-bindings",
+  "name": "rescript-polka",
   "version": "0.1.0",
   "description": "",
   "scripts": {},
-  "keywords": [],
+  "keywords": [
+    "ReScript",
+    "polka"
+  ],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
+  "dependencies": {
+    "polka": "^0.5.2"
+  },
   "peerDependencies": {
     "polka": "^0.5.2"
   }
