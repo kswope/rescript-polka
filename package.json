@@ -2,7 +2,10 @@
   "name": "rescript-polka",
   "version": "0.1.0",
   "description": "",
-  "scripts": {},
+  "scripts": {
+    "re:start": "rescript build -w",
+    "re:build": "rescript build"
+  },
   "keywords": [
     "ReScript",
     "polka"
